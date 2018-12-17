@@ -10,4 +10,4 @@ How Can I Contribute?
 2) Paraphrasing
 3_ Any suggestions to change the text, names in the story
 4) Suggesting Enhancements
-This section guides you through submitting an enhancement suggestion for Atom, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
+
